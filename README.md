@@ -23,8 +23,9 @@ Big Sur updating are fine, no problem(for now)
 Almost All
 
 ### Tool Version
-OpenCore: 0.7.2
-MacOS Big Sur 11.4 then updated to 11.5.1
+OpenCore: 0.7.2  
+
+MacOS Big Sur 11.4 then updated to 11.5.1  
 
 ### Warning
 > I dont charged with any responbility if your laptop/hardware is **broken** when using this config **IT'S YOUR OWN FAULT!**
